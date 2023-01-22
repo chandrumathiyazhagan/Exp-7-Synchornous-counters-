@@ -57,11 +57,11 @@ Step 6: End the module
 ### PROGRAM 
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: M.Chandru
+RegisterNumber: 22008631
 
 ```
-UP COUNTER
+UP COUNTER:
 
 module uc(input clk,input reset,output[0:3]counter);
 reg[0:3] counter_up;
@@ -76,7 +76,7 @@ assign counter=counter_up;
 endmodule
 ```
 ```
-DOWN COUNTER
+DOWN COUNTER:
 
 module dc(input clk,input reset,output[0:3]counter);
 reg[0:3] counter_down;
