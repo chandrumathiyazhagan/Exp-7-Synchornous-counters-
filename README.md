@@ -57,7 +57,9 @@ Step 6: End the module
 ### PROGRAM 
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 Developed by: M.Chandru
+
 RegisterNumber: 22008631
 
 ```
@@ -93,11 +95,11 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-UP COUNTER
+UP COUNTER:
 
 ![image](https://user-images.githubusercontent.com/119393023/213902290-f7b34ca5-7db1-4f00-9bdf-db26f5be17ee.png)
 
-DOWN COUNTER
+DOWN COUNTER:
 
 ![image](https://user-images.githubusercontent.com/119393023/213902300-4cd45e04-c5ce-4833-b283-29b490d183b7.png)
 
